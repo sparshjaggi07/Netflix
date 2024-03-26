@@ -3,7 +3,7 @@ This project aims to replicate the popular streaming platform's user interface a
 ## Preview 
 ### LOGIN / SIGN UP Page
 ![Join](/login.png)
-![Join](/login 2.png)
+![Join](/login2.png)
 ### HOME Page
 ![Join](/Home.png)
 ![Join](/Home2.png)
