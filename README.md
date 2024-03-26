@@ -3,10 +3,10 @@ This project aims to replicate the popular streaming platform's user interface a
 ## Preview 
 ### LOGIN / SIGN UP Page
 ![Join](/login.png)
-![Join](/login2.png)
+![Join](/login 2.png)
 ### HOME Page
-![Join](/home.png)
-![Join](/home2.png)
+![Join](/Home.png)
+![Join](/Home2.png)
 
 ## Local Setup for Live Demo
 ###  Clone the repository using the command : `git clone https://github.com/sparshjaggi07/Netflix.git` <br/>
